@@ -1,7 +1,9 @@
                          INTELLIGENT CUSTOMER SUPPORT CHATBOT
 
 import random
+
 from sklearn.feature_extraction.text import CountVectorizer
+
 from sklearn.naive_bayes import MultinomialNB
 
 # Training Data
