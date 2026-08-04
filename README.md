@@ -1,4 +1,4 @@
-                         INTELLIGENT CUSTOMER SUPPORT CHATBOT
+                                             INTELLIGENT CUSTOMER SUPPORT CHATBOT
 
 import random
 
